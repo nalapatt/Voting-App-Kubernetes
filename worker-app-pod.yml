@@ -9,5 +9,5 @@ metadata:
 spec:
   containers: 
   - name: worker-app
-    image: eesprit/voting-app-worker
+    image: dockersamples/examplevotingapp_worker
     #no ports for the worker
